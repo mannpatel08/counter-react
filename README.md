@@ -10,7 +10,6 @@ A simple and clean React application demonstrating **state management** using th
 
 ```markdown
 ![Screenshot 2025-11-29 141823](https://github.com/user-attachments/assets/7fd9421a-3193-419f-80c4-523f3578b488)
-```
 
 > **Note:** If you prefer a different filename or path (for example `screenshot.png` in the repo root), adjust the path above accordingly.
 
