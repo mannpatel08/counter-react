@@ -18,7 +18,7 @@ This project includes a lightweight UI with increment and decrement buttons, bui
 
 Below is the actual output of the Counter App:
 
-![Screenshot 2025-11-29 141005](https://github.com/user-attachments/assets/f49c8efa-740b-4015-a447-ffedf66f6b86)
+![Screenshot 2025-11-29 141005](https://github.com/user-attachments/assets/23748704-4410-4d17-ac99-7f5515870303)
 
 
 > *(Replace the above path with your GitHub image URL if stored online.)*
